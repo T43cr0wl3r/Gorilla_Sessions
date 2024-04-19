@@ -1,5 +1,4 @@
 # Gorilla_Sessions
-Vulnerability related to cve-2024-3400
 The following links below are a compilation of the CVE-2024-3400 vulnerability, supposedly affected by the gorilla/sessions library, which allows a traversal path via the cookie. Attached are 2 listings where you can find all the repositories and packages with dependencies on the library
 
 [Pull request gorilla/sessions](https://github.com/gorilla/sessions/pull/274)
